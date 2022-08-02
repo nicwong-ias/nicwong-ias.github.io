@@ -1,18 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
-<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N6580.2403912GOOGLEDBM/B28256376.341750075;sz=160x600;dsp_bidurl_0_=${SOURCE_URL_ENC};ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?">
-</SCRIPT>
-
-
-</body>
-</html>
-
-
 
 ## Welcome to GitHub Pages
 
